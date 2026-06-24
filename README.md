@@ -1,7 +1,7 @@
 # Tugas-Pemrograman-Web-p1-14
  # Lab7Web-Semester4
 
- - **Nama : Muahmmad RidHO Hafiedz*
+ - **Nama : Muhammmad Ridho Hafiedz*
  - **NIM : 312410195**
  - **Kelas : TI24 A.2**
  - **Mata Kuliah : Pemrograman Web2**
